@@ -12,4 +12,8 @@ Script realizado para cambiar las escalas del tamaño en los 3 ejes del objeto a
 
 Script realizado para que el GameObject al que se le asigne, al ser tocado, cambie de color a rojo.
 
+<br/>
 
+## Recordatorio
+
+Los gifs animados no pudieron ser realizados dado que por problemas en el github del centro de calculo no se pudo crear un repositorio para hacerlos en casa. Todo el proyecto esta en el ordenador del CC.

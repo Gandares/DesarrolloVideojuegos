@@ -16,7 +16,3 @@ Script realizado para que el GameObject al que se le asigne, al ser tocado, camb
 ![Alt Text](Gifs/redBox.gif)
 
 <br/>
-
-## Recordatorio
-
-Los gifs animados no pudieron ser realizados dado que por problemas en el github del centro de calculo no se pudo crear un repositorio para hacerlos en casa. Todo el proyecto esta en el ordenador del CC.

@@ -10,7 +10,7 @@ Script utilizado para aumentar la puntuación del jugador en el *HUD* cada vez q
 
 ## Script PlayerController.cs
 
-Script utilizado para asignar los controles para que el usuario pueda mover la capsula. Este se podrá mover a cierta velocidad y cuando golpee una pelota estática la mandará con una fuerza predeterminada. Además, siempre que golpee cualquier tipo de pelota (Dinámica o estática), sumará un punto a la puntuación total.
+Script utilizado para asignar los controles para que el usuario pueda mover la capsula. Este se podrá mover a cierta velocidad y cuando golpee una pelota estática la mandará con una fuerza predeterminada. Además, siempre que golpee cualquier tipo de pelota (Dinámica o Estática), sumará un punto a la puntuación total.
 
 <br/>
 

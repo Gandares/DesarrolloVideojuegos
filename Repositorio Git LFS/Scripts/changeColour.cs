@@ -1,24 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class changeColour : MonoBehaviour
-{
-    private Renderer rend;
-    // Start is called before the first frame update
-    void Start()
-    {
-        rend = GetComponent<Renderer>();
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
-    void OnCollisionEnter(Collision collision)
-    {
-        rend.material.color = Color.red;
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9474f4cc01400b0fe9f42f5da4783b140bf14415310a9a23b49ee4933fae423
+size 480

@@ -1,23 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class Size : MonoBehaviour
-{
-    public float sizeX;
-    public float sizeY;
-    public float sizeZ;
-    // Start is called before the first frame update
-    void Start()
-    {
-        sizeX = transform.localScale.x;
-        sizeY = transform.localScale.y;
-        sizeZ = transform.localScale.z;
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        transform.localScale = new Vector3(sizeX,sizeY,sizeZ);
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4d67b500475aec9e46fd6825d6e1f660bd6eb71786010e74f84c0f8a62229d7
+size 548

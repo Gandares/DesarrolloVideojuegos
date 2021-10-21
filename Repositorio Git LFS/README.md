@@ -1,5 +1,4 @@
-# Práctica 1
-
+# Repositorio Git LFS
 <br/>
 
 ## Script size.cs

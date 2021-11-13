@@ -23,6 +23,10 @@ Por último, al acercarse al caracol a mas de 7 unidades, se emitirá un evento 
 
 Script utilizado para el manejo del evento emitido por el "Player" cuando se acerque lo suficiente. Simplemente modifica una variable para que el "animator" cambie de animación.
 
+<br/>
+
 # Script GemAnimation.cs 
 
 Script que sigue la misma mecánica que el anterior, cambiará el valor de una variable cada vez que el jugador pulse la tecla X y así cambiar de animación.
+
+<br/>

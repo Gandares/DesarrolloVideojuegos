@@ -13,7 +13,7 @@ Script utilizado para configurar los controles del personaje:
 
 El "Flip" pedido al pulsar el botón de espacio, fue colocado en los controles de movimiento de la derecha e izquierda, y harán que el personaje gire a donde se esté moviendo.
 
-![Alt Text](Resources/PlayerMovement.gif)
+![Alt Text](Resources/playerMovement.gif)
 
 El personaje contiene 3 animaciones: Idle, Correr y Saltar.
 

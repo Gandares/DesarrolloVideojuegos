@@ -30,6 +30,8 @@ Script que detectará cualquier "trigger" y mostrará un mensaje por la consola.
 
 Script utilizado para que a cualquier objecto con físicas que atraviese el GameObject que contiene este script, se le aplique una fuerza hacia la derecha.
 
+<br/>
+
 ### Force.cs
 
 Script el cual aplica una fuerza a un GameObject una vez hacia la derecha o izquierda.
@@ -37,6 +39,10 @@ Script el cual aplica una fuerza a un GameObject una vez hacia la derecha o izqu
 <br/>
 
 ## Apartados
+
+Se pidio que se mostrara por consola toda colisión o trigger que ocurriera. Cabe destacar que en todos los apartados, los cuadrados tienen Box Collider 2D, asi que toda colisión será detectada. En 2 apartados, uno de los cubos tendrá en el Box Collider 2D activado el "Is Trigger" y con esto detectará los Triggers. En todos los apartados tanto de una manera o de otra, mostraría un mensaje por la consola.
+
+<br/>
 
 ### 1.1 Ninguno de los objetos será físico.
 

@@ -26,12 +26,6 @@ Script que detectará cualquier "trigger" y mostrará un mensaje por la consola.
 
 <br/>
 
-### Lanzadera.cs
-
-Script utilizado para que a cualquier objecto con físicas que atraviese el GameObject que contiene este script, se le aplique una fuerza hacia la derecha.
-
-<br/>
-
 ### Force.cs
 
 Script el cual aplica una fuerza a un GameObject una vez hacia la derecha o izquierda.

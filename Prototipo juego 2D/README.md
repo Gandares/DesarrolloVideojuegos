@@ -90,4 +90,4 @@ Cuando el jugador llega al final del nivel, muestra una escena en la que solamen
 
 <br/>
 
-![video](Resources/2022-01-15 18-38-27.flv)
+![Alt Image](Resources/2022-01-15 18-38-27.flv)

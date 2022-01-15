@@ -90,4 +90,6 @@ Cuando el jugador llega al final del nivel, muestra una escena en la que solamen
 
 <br/>
 
+Clic en el reproductor de abajo para acceder al vídeo.
+
 [![Watch the video](http://i.imgur.com/vKb2F1B.png)](https://youtu.be/8ACbkyw0Ozo)

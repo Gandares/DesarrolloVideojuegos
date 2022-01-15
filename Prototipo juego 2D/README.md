@@ -90,15 +90,4 @@ Cuando el jugador llega al final del nivel, muestra una escena en la que solamen
 
 <br/>
 
-Más abajo se subirá un video presentación del prototipo mostrando y explicando con más detalle todo lo anterior.
-
-**FUTURO VIDEO AQUI**
-
-
-
- 
-
-
-
- 
-
+![video](Resources/2022-01-15 18-38-27.flv)
